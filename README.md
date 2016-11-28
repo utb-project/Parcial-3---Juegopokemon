@@ -30,3 +30,7 @@ La aplicación no cuenta con suficiente información para identificar únicament
 Esta aplicación no hace uso de los metadatos de las imágenes mostradas y no agrega metadatos a las fotos publicadas por usuarios. La aplicación no remueve metadatos existentes de fotos recibidas, y las fotos publicadas pueden o no pueden contener metadatos agregados por Android.
 
 El desarrollador de la aplicación no se hace responsable por el contenido enviado en los servidores usados por la aplicación, incluyendo las fotos, sus (meta-)datos y en general toda otra información obtenidad de la Internet.
+
+Screenshots
+-----------
+
